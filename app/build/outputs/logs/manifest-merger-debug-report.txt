@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\115bc3a3550d3ee1d0e4994b051d5506\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\86c4d617b1c8788cfd0e97767bed4302\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\901ad1eee23945a21d5fc3ef888b0a4a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\fac379b106c50742fe660ca97699f6d7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\97edd277e3ac76483738760b1fb51ec0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6e232ee4ac2b2b13c9a2e22aef47c0fd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f03262d9d2a4a25ed686d121304e6a6a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\5090275a261f1442e5cdf081206d0dd7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4704acd68c3c051079b328b09edbc3a3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\7165eb21b572efabf0ef03ba84cc5b27\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\cb96d11159a897332da7f6c4082acfbc\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:5:22-62
+application
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\115bc3a3550d3ee1d0e4994b051d5506\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\115bc3a3550d3ee1d0e4994b051d5506\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\86c4d617b1c8788cfd0e97767bed4302\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\86c4d617b1c8788cfd0e97767bed4302\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\901ad1eee23945a21d5fc3ef888b0a4a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\901ad1eee23945a21d5fc3ef888b0a4a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\fac379b106c50742fe660ca97699f6d7\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\fac379b106c50742fe660ca97699f6d7\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\97edd277e3ac76483738760b1fb51ec0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\97edd277e3ac76483738760b1fb51ec0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6e232ee4ac2b2b13c9a2e22aef47c0fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6e232ee4ac2b2b13c9a2e22aef47c0fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f03262d9d2a4a25ed686d121304e6a6a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f03262d9d2a4a25ed686d121304e6a6a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\5090275a261f1442e5cdf081206d0dd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\5090275a261f1442e5cdf081206d0dd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4704acd68c3c051079b328b09edbc3a3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4704acd68c3c051079b328b09edbc3a3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\7165eb21b572efabf0ef03ba84cc5b27\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\7165eb21b572efabf0ef03ba84cc5b27\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\cb96d11159a897332da7f6c4082acfbc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\cb96d11159a897332da7f6c4082acfbc\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:12:9-40
+activity#dev.edmt.androidcamerarecognitiontext.MainActivity
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:17:27-74
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:21:9-22:34
+	android:value
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml:21:20-77
+uses-sdk
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\115bc3a3550d3ee1d0e4994b051d5506\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\115bc3a3550d3ee1d0e4994b051d5506\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\86c4d617b1c8788cfd0e97767bed4302\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\86c4d617b1c8788cfd0e97767bed4302\AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\901ad1eee23945a21d5fc3ef888b0a4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\901ad1eee23945a21d5fc3ef888b0a4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\fac379b106c50742fe660ca97699f6d7\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\fac379b106c50742fe660ca97699f6d7\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\97edd277e3ac76483738760b1fb51ec0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\97edd277e3ac76483738760b1fb51ec0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6e232ee4ac2b2b13c9a2e22aef47c0fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6e232ee4ac2b2b13c9a2e22aef47c0fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f03262d9d2a4a25ed686d121304e6a6a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f03262d9d2a4a25ed686d121304e6a6a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\5090275a261f1442e5cdf081206d0dd7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\5090275a261f1442e5cdf081206d0dd7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4704acd68c3c051079b328b09edbc3a3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4704acd68c3c051079b328b09edbc3a3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\7165eb21b572efabf0ef03ba84cc5b27\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\7165eb21b572efabf0ef03ba84cc5b27\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\cb96d11159a897332da7f6c4082acfbc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\cb96d11159a897332da7f6c4082acfbc\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\115bc3a3550d3ee1d0e4994b051d5506\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\atoja\AndroidStudioProjects\LinkFinderApplication\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\91783b1b81da4b3e527e9a929f330530\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\atoja\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\4a751c192eac6484a574f5bd554fe5fa\AndroidManifest.xml:20:20-65
